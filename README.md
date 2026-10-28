@@ -10,3 +10,8 @@ Business Intelligence & PMO leader working with Power BI, Microsoft Fabric and S
 ## Stack / interests
 
 Power BI · Microsoft Fabric · SQL · DAX / Power Query · Claude Skills · MCP
+
+## Reach me
+
+- 📧 [jamesdobbs.freelance@gmail.com](mailto:jamesdobbs.freelance@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jdobbs0425/)
